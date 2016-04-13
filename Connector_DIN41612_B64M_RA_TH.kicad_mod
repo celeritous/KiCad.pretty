@@ -1,8 +1,8 @@
-(module Connector_DIN41612_B64F_Straight_TH (layer F.Cu) (tedit 5686E0A4)
+(module Connector_DIN41612_B64M_RA_TH (layer F.Cu) (tedit 570E7AC5)
   (fp_text reference REF** (at 1.27 -12.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Connector_DIN41612_B64F_Straight_TH (at 13.97 -15.24) (layer F.Fab) hide
+  (fp_text value Connector_DIN41612_B64M_RA_TH (at 13.97 -15.24) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0 81.28) (end 0 86.36) (layer F.SilkS) (width 0.15))
