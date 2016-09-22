@@ -1,4 +1,4 @@
-(module D0805 (layer F.Cu) (tedit 559993F5)
+(module D0805 (layer F.Cu) (tedit 57E2D4D7)
   (descr "DIODE 0805")
   (tags "CHIP MELF")
   (attr smd)
