@@ -1,6 +1,6 @@
-(module CONNECTOR_USB_MINI_B (layer F.Cu) (tedit 55B03186)
+(module CONNECTOR_USB_MINI_B (layer F.Cu) (tedit 58E2ADB8)
   (fp_text reference REF** (at 6.8 -2.2) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (fp_text value CONNECTOR_USB_MINI_B (at 5 7.5) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))

@@ -1,6 +1,6 @@
-(module CONNECTOR_RF_SMA_END_LAUNCH (layer F.Cu) (tedit 586BDF92)
+(module CONNECTOR_RF_SMA_END_LAUNCH (layer F.Cu) (tedit 58E2ACF3)
   (fp_text reference REF** (at -1.905 -3.175) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (fp_text value CONNECTOR_RF_SMA_END_LAUNCH (at 8.89 -5.08) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))

@@ -1,6 +1,6 @@
-(module FUSE_HOLDER_3AG_PCB (layer F.Cu) (tedit 57E2B659)
+(module FUSE_HOLDER_3AG_PCB (layer F.Cu) (tedit 58E2CEB9)
   (fp_text reference REF** (at -10.1 -6.5) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (fp_text value FUSE_HOLDER_3AG_PCB (at -3.4 -8.2) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))

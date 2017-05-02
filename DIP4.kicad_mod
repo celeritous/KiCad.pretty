@@ -1,6 +1,6 @@
-(module DIP4 (layer F.Cu) (tedit 5801033C)
+(module DIP4 (layer F.Cu) (tedit 58E2BD66)
   (fp_text reference REF** (at -3.732 0 90) (layer F.SilkS)
-    (effects (font (size 1.2 1.2) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (fp_text value DIP4 (at 0 0) (layer F.Fab) hide
     (effects (font (size 1.2 1.2) (thickness 0.15)))

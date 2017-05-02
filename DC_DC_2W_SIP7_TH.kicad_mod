@@ -1,6 +1,6 @@
-(module DC_DC_2W_SIP7_TH (layer F.Cu) (tedit 58015FA3)
+(module DC_DC_2W_SIP7_TH (layer F.Cu) (tedit 58E2BC39)
   (fp_text reference REF** (at 0.635 -6.35) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (fp_text value DC_DC_2W_SIP7_TH (at 5.715 6.35) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))

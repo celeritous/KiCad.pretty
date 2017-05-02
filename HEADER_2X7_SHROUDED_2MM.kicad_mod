@@ -1,6 +1,6 @@
-(module HEADER_2X7_SHROUDED_2MM (layer F.Cu) (tedit 580681C8)
+(module HEADER_2X7_SHROUDED_2MM (layer F.Cu) (tedit 58E3E8CC)
   (fp_text reference REF** (at 0.5 -3) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (fp_text value HEADER_2X7_SHROUDED_2MM (at 10 -5) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))

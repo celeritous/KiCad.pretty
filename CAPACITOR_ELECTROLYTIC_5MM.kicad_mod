@@ -1,9 +1,9 @@
 #template CAE
 
-(module CAPACITOR_ELECTROLYTIC_5MM (layer F.Cu) (tedit 586EA219)
+(module CAPACITOR_ELECTROLYTIC_5MM (layer F.Cu) (tedit 58E2AB19)
   (descr "Aluminium Electrolytic Capacitor")
   (fp_text reference REF** (at 0 -3.28) (layer F.SilkS)
-    (effects (font (size 0.65 0.65) (thickness 0.0975)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (fp_text value VAL** (at 0 3.28) (layer F.SilkS) hide
     (effects (font (size 0.65 0.65) (thickness 0.0975)))

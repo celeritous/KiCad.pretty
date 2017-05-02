@@ -1,6 +1,6 @@
-(module ALPS_SCHA4B0100_SD_SOCKET (layer F.Cu) (tedit 58091894)
+(module ALPS_SCHA4B0100_SD_SOCKET (layer F.Cu) (tedit 58E298BE)
   (fp_text reference REF** (at -4.953 -1.27) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (fp_text value ALPS_SCHA4B0100_SD_SOCKET (at 4.445 -2.921) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))

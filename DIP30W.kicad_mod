@@ -1,8 +1,8 @@
-(module DIP30W (layer F.Cu) (tedit 570EB9CE)
+(module DIP30W (layer F.Cu) (tedit 58E2BD35)
   (fp_text reference REF** (at -20.2674 0 90) (layer F.SilkS)
-    (effects (font (size 1.2 1.2) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
-  (fp_text value "DIP30 600mil" (at 0 0) (layer F.Fab)
+  (fp_text value "DIP30 600mil" (at 0 0) (layer F.Fab) hide
     (effects (font (size 1.2 1.2) (thickness 0.15)))
   )
   (fp_line (start -19.0674 8.907399) (end 19.0674 8.9074) (layer F.SilkS) (width 0.15))

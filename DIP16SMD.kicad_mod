@@ -1,8 +1,8 @@
-(module DIP16SMD (layer F.Cu) (tedit 5748AB02)
+(module DIP16SMD (layer F.Cu) (tedit 58E2CE36)
   (fp_text reference REF** (at -11.098 0 90) (layer F.SilkS)
-    (effects (font (size 1.2 1.2) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
-  (fp_text value SOIC-16 (at 0 0) (layer F.Fab)
+  (fp_text value SOIC-16 (at 0 0) (layer F.Fab) hide
     (effects (font (size 1.2 1.2) (thickness 0.15)))
   )
   (fp_line (start -9.525 -3.175) (end 9.525 -3.175) (layer F.SilkS) (width 0.127))

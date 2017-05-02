@@ -1,6 +1,6 @@
-(module CONN_POWERPOLE_45A (layer F.Cu) (tedit 58780F8D)
+(module CONN_POWERPOLE_45A (layer F.Cu) (tedit 58E2AE52)
   (fp_text reference REF** (at 2.65 0.8) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (fp_text value CONN_POWERPOLE_45A (at -13.2 3.9) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))

@@ -1,6 +1,6 @@
-(module BATT_CR2032 (layer F.Cu) (tedit 584B2560)
+(module BATT_CR2032 (layer F.Cu) (tedit 58E2A935)
   (fp_text reference REF** (at -13.9 -5.8) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (fp_text value BATT_CR2032 (at 0.4 0.3) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))

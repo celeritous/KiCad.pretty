@@ -1,6 +1,6 @@
-(module ADE-1 (layer F.Cu) (tedit 56D87AB7)
-  (fp_text reference REF** (at -1.4 -5.6 180) (layer F.SilkS)
-    (effects (font (size 1.2 1.2) (thickness 0.15)))
+(module ADE-1 (layer F.Cu) (tedit 58E2985F)
+  (fp_text reference REF** (at -1.4 -5.6) (layer F.SilkS)
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (fp_text value ADE-1 (at 0 0) (layer F.Fab) hide
     (effects (font (size 1.2 1.2) (thickness 0.15)))

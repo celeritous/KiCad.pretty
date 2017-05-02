@@ -1,6 +1,6 @@
-(module CONN_PWR_COAX_2MM_SM (layer F.Cu) (tedit 58016603)
+(module CONN_PWR_COAX_2MM_SM (layer F.Cu) (tedit 58E2AEBA)
   (fp_text reference REF** (at 1.27 -3.81) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (fp_text value CONN_PWR_COAX_2MM_SM (at 8.89 -5.08) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))

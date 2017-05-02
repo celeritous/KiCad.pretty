@@ -1,6 +1,6 @@
-(module CONNECTOR_RF_SMA_TH (layer F.Cu) (tedit 586BDCC5)
+(module CONNECTOR_RF_SMA_TH (layer F.Cu) (tedit 58E2AD27)
   (fp_text reference REF** (at -1.27 -5.08) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (fp_text value CONNECTOR_RF_SMA_TH (at 5.715 -6.985) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))

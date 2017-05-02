@@ -1,8 +1,8 @@
-(module HEADER_2X5_50MIL (layer F.Cu) (tedit 58079B92)
+(module HEADER_2X5_50MIL (layer F.Cu) (tedit 58E3E86E)
   (fp_text reference REF** (at 1.143 -1.905) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
-  (fp_text value HEADER_2X5_50MIL (at 6.223 -3.302) (layer F.Fab)
+  (fp_text value HEADER_2X5_50MIL (at 6.223 -3.302) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15) italic))
   )
   (fp_text user 1 (at -1.905 0.127) (layer F.SilkS)
