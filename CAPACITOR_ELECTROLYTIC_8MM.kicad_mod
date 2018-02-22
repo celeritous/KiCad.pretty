@@ -1,16 +1,13 @@
 #template CAE
 
-(module CAPACITOR_ELECTROLYTIC_8MM (layer F.Cu) (tedit 58E2AB82)
+(module CAPACITOR_ELECTROLYTIC_8MM (layer F.Cu) (tedit 5A6FB5C3)
   (descr CAPACITOR_ELECTROLYTIC_8MM)
-  (fp_text reference REF** (at 0 -4.78) (layer F.SilkS)
+  (fp_text reference C23 (at 0 -4.78) (layer F.SilkS)
     (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
-  (fp_text value VAL** (at 0 4.78) (layer F.SilkS) hide
+  (fp_text value 100uF (at 0 4.78) (layer F.SilkS) hide
     (effects (font (size 0.65 0.65) (thickness 0.0975)))
   )
-  (fp_line (start 0.9965 -3.7188) (end 0.9965 3.7188) (layer F.SilkS) (width 0.2))
-  (fp_arc (start 0 0) (end 3.4893 1.6271) (angle 130) (layer F.SilkS) (width 0.2))
-  (fp_arc (start 0 0) (end -3.4893 -1.6271) (angle 130) (layer F.SilkS) (width 0.2))
   (fp_line (start -4 -2.4) (end -4 -0.7) (layer F.SilkS) (width 0.2))
   (fp_line (start -4 2.4) (end -4 0.7) (layer F.SilkS) (width 0.2))
   (fp_line (start -2.4 -4) (end 4 -4) (layer F.SilkS) (width 0.2))
